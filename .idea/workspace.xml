@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa1b7f2-e4ed-4da1-93df-7d1e5bed15ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/search-bar/css-search-bar" beforeDir="false" afterPath="$PROJECT_DIR$/css/search-bar/css-search-bar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-system-design/nav-bar" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-system-design/nav-bar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-system-design/progress/progress-bar" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-system-design/progress/progress-bar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/full-app" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/full-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/pagination-app" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/pagination-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tc-real-estate-client" beforeDir="false" afterPath="$PROJECT_DIR$/tc-real-estate-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tc-real-estate-client2" beforeDir="false" afterPath="$PROJECT_DIR$/tc-real-estate-client2" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +37,8 @@
       <file leaf-file-name="vanilla-js-utilities.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vanilla-js/js/vanilla-js-utilities.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="119">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -353,15 +360,16 @@
       <workItem from="1616361618602" duration="143000" />
       <workItem from="1616431217942" duration="877000" />
       <workItem from="1616765511645" duration="1102000" />
-      <workItem from="1616766659069" duration="262000" />
+      <workItem from="1616766659069" duration="3044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70777000" />
+    <option name="totallyTimeSpent" value="73559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="102" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="0" />
@@ -373,10 +381,10 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Run" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.7941681" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.296741" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30181542" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15506808" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="0" side_tool="true" />
       <window_info anchor="right" id="Ant Build" order="0" />
@@ -736,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vanilla-js/js/vanilla-js-utilities.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
